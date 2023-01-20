@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/UserList.with.css.modules-6.1/static/css/main.3000942e.css",
+    "main.js": "/UserList.with.css.modules-6.1/static/js/main.47537e27.js",
+    "index.html": "/UserList.with.css.modules-6.1/index.html",
+    "main.3000942e.css.map": "/UserList.with.css.modules-6.1/static/css/main.3000942e.css.map",
+    "main.47537e27.js.map": "/UserList.with.css.modules-6.1/static/js/main.47537e27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3000942e.css",
+    "static/js/main.47537e27.js"
+  ]
+}
