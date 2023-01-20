@@ -1,0 +1,25 @@
+.input {
+   display: flex; 
+   margin: 2rem auto;
+  border-radius: 5px;
+  padding: 1rem;
+  width: 90%;
+  max-width: 40rem;
+  transition: box-shadow .9s; 
+ } 
+.div_block {
+display: flex;
+flex-direction: column;
+}
+
+.input {
+height: 50px;
+border: 7px solid rgb(78, 18, 61);
+}
+:focus {
+    background-color: #ac84cd ;
+    }
+.label {
+font-size: 30px;
+color: black;
+}
